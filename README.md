@@ -2,15 +2,21 @@
 
 <div align="center">
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&center=true&vCenter=true&pause=1000&width=435&lines=MEU+NOME+%C3%89+RYAN+LUCAS+ESTEVAM+;SOU+UM+DESENVOLVEDOR+BACK+END+ALTONOMO;-...+.+--+%2F+...-+..+-.+-..+---+%2F+.-+---+%2F+--+.+..-+%2F+.--.+.+.-.+..-.+..+.-..+-.-.--)](https://git.io/typing-svg)
 </div>
 <p align="center">
-  <strong>Desenvolvedor Back-end</strong><br><br>
-  Me chamo Ryan Lucas Estevam, sou um jovem de 18 anos, estudante de desenvolvimento web que resolveu se aprofundar no back-end. <br>
-  Apaixonado por tecnologia desde os 9 anos e estudando de forma autônoma, mesmo tendo passado em primeiro lugar na faculdade da minha área.
+  <img src="https://img.shields.io/badge/UM%20DESENVOLVEDOR%20BACK%20END-113a7c?style=for-the-badge&logoColor=white&labelColor=113a7c&color=113a7c" alt="UM DESENVOLVEDOR BACK END">
 </p>
 
-___
+
+  <strong>
+  Me chamo Ryan Lucas Estevam, sou um jovem de 18 anos, estudante de desenvolvimento web que resolveu se aprofundar no back-end. <br>
+  Apaixonado por tecnologia desde os 9 anos e estudando de forma autônoma, mesmo tendo passado em primeiro lugar na faculdade da minha área.
+    </strong><br><br>
+</p>
+
 <br/>
 <p align="center">
   <a href="https://www.instagram.com/_3st3vam" target="_blank">
@@ -89,4 +95,4 @@ ___
   />
 </p>
 
-
+<img width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F22574746-urbano-paisagem-urbana-as-noite-horizonte-cidade-silhuetas&psig=AOvVaw1i3hdVHgCVWaw4_ojfNvyb&ust=1755383329356000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDW3NDujY8DFQAAAAAdAAAAABAE"/>
