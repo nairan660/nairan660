@@ -95,4 +95,3 @@ ___
   />
 </p>
 
-<img width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F22574746-urbano-paisagem-urbana-as-noite-horizonte-cidade-silhuetas&psig=AOvVaw1i3hdVHgCVWaw4_ojfNvyb&ust=1755383329356000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDW3NDujY8DFQAAAAAdAAAAABAE"/>
