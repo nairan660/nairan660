@@ -19,7 +19,7 @@ jobs:
       - name: generate github-contribution-grid-pacman.svg
         uses: <seu-repo-com-pacman-action>@v1
         with:
-          github_user_name: cherry-leeh
+          github_user_name: nairan660
           outputs: |
             dist/github-contribution-grid-pacman.svg
             dist/github-contribution-grid-pacman-dark.svg?palette=github-dark
