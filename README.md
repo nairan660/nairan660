@@ -94,10 +94,3 @@ ___
     src="https://github-readme-stats.vercel.app/api?username=nairan660&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=00000000&hide_border=true" 
   />
 </p>
-<div align="center">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nairan660/nairan660/output/github-contribution-grid-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nairan660/nairan660/output/github-contribution-grid-pacman.svg">
-  <img align="center" alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/nairan660/nairan660/output/github-contribution-grid-pacman.svg">
-</picture>
-</div>
